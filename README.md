@@ -1,0 +1,1 @@
+#The script for files classification in pwd
